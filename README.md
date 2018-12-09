@@ -9,3 +9,5 @@ Dans le cas que vous faites le choix de télécharger et d'utiliser ce plugin vo
 <hr>
 
 Téléchargement du plugin: https://github.com/CryptoNoobFr/NvidiaOCPlugin/Releases
+
+Comment installer (et activer) le plugin: https://github.com/CryptoNoobFr/NvidiaOCPlugin/wiki/Comment-installer-le-plugin
